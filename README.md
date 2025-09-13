@@ -1,4 +1,4 @@
-## Hi there 👋
+## My readme
 
 <!--
 **dade1011/dade1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my profile repository. 
+I'm attending Gachon University.
